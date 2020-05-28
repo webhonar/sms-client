@@ -1,5 +1,5 @@
 {
-    "name": "matthewbdaly/sms-client",
+    "name": "webhonar/sms-client",
     "description": "A generic SMS client library. Supports multiple swappable drivers.",
     "type": "library",
     "keywords": ["sms"],
@@ -19,7 +19,7 @@
     "authors": [
         {
             "name": "Matthew Daly",
-            "email": "matthewbdaly@gmail.com"
+            "email": "mohaghegh.ms@gmail.com"
         }
     ],
     "autoload": {
